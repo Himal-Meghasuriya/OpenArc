@@ -1,0 +1,19 @@
+.ContactLine,
+.container {
+  font-size: 0.9rem;
+}
+
+/* .ContactLine a {
+    transition: color 0.2s ease-in-out;
+  } */
+
+/* .ContactLine a:hover {
+    color: #4705fc;
+  } */
+
+@media (max-width: 991px) {
+  .ContactLine,
+  .container {
+    display: none;
+  }
+}
