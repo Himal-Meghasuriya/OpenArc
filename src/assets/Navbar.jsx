@@ -9,7 +9,7 @@ const Navbar = () => {
           <img src={Logo} alt="Logo" height="40" />
         </a>
         <button
-          className="btn btn-outline-light"
+          className="navbar-toggler btn-outline-light"
           type="button"
           data-bs-toggle="collapse"
           data-bs-target="#navbarNav"
